@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/madi/.cache/gnome-builder/install/statistical_thinking/host
+app-id=
+postbuild=
+prebuild=
+default=true
